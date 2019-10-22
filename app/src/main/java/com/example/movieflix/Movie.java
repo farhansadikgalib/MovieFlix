@@ -46,11 +46,6 @@ public class Movie {
         movieList.add(new Movie(R.drawable.terminators,"Terminators","SiFi","2015"));
         movieList.add(new Movie(R.drawable.inception,"Inception","SiFi","2018"));
         movieList.add(new Movie(R.drawable.hardware,"Hardware","SiFi","2012"));
-        movieList.add(new Movie(R.drawable.blade_runner,"Blade Runner","SiFi","2018"));
-        movieList.add(new Movie(R.drawable.blade_runner,"Blade Runner","SiFi","2018"));
-        movieList.add(new Movie(R.drawable.blade_runner,"Blade Runner","SiFi","2018"));
-        movieList.add(new Movie(R.drawable.blade_runner,"Blade Runner","SiFi","2018"));
-        movieList.add(new Movie(R.drawable.blade_runner,"Blade Runner","SiFi","2018"));
 
         return movieList;
     }
